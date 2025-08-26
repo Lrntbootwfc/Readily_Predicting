@@ -7,7 +7,7 @@ import {
   Sparkles, FlaskConical, GaugeCircle, Wrench, Sprout, Shield, HardHat, Cog
 } from 'lucide-react';
 import Chart from 'chart.js/auto';
-import './app.css';
+import './App.css';
 // This is a self-contained, front-end only version of the app.
 // All backend API calls have been removed and replaced with hardcoded data and simulated logic.
 
